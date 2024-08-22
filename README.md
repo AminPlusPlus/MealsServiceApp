@@ -9,6 +9,10 @@
 - [API Overview](#api-overview)
 - [Testing](#testing)
 
+| Homepage | Categories    | Meal Details    |
+| :---:   | :---: | :---: |
+| ![simulator_screenshot_16BA007F-1EAC-4CC7-897A-6F8EA7CD5718](https://github.com/user-attachments/assets/85a8d7aa-6622-43a7-b495-7d41fc321df9) | ![simulator_screenshot_F9EDC508-35A9-422C-94D4-0B66C401BD1F](https://github.com/user-attachments/assets/4330fcf1-b871-4499-b513-3fc5b26bd5c6)   | ![simulator_screenshot_46892480-EA1D-4ADB-89D1-0CEA4AA562AD](https://github.com/user-attachments/assets/38dbbae4-3530-4277-a3f1-708cd9e2b9fc)   |
+
 ## Introduction
 
 MealsServiceApp is an iOS application designed to provide users with a wide range of meal recipes and categories. It leverages the power of Swift and integrates with a meal API to fetch detailed information about meals, including ingredients, instructions, and more. The application also supports viewing meal categories and filtering meals based on these categories.
